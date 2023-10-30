@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0xtd
+- 👋 Hi, I’m Tushar De. 
 - 👀 I’m interested in Web Development, Ethical Hacking.
 - 🌱 I’m currently learning Web Application Penetration Testing, Cryptography, Digital Forensics, Full Stack Web Development.
 - 📫 Drop an email to tusharde_00@protonmail.com
